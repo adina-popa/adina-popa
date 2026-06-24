@@ -3,9 +3,9 @@
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente compagino mis estudios con un **Máster en Inteligencia Artificial**. Me apasiona conectar el desarrollo de software tradicional y robusto (Backend) con el potencial de los modelos de IA y el análisis de datos.
 
 ### Sobre mí
-- 🎓 Actualmente cursando el último año de DAM y especializándome con un Máster en IA.
-- 💻 Enfocada en el ecosistema de **Java**, la arquitectura de software limpia y bases de datos relacionales.
-- 🤖 Interesada en Machine Learning, Deep Learning y cómo integrar IA en aplicaciones de escritorio y web.
+- Actualmente cursando el último año de DAM y especializándome con un Máster en IA.
+- Enfocada en el ecosistema de **Java**, la arquitectura de software limpia y bases de datos relacionales.
+- Interesada en Machine Learning, Deep Learning y cómo integrar IA en aplicaciones de escritorio y web.
 - 📍 Teruel, España.
 
 ### Tecnologías y Herramientas
