@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Adina Popa 👋
 
-<!--
-**adina-popa/adina-popa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente compagino mis estudios con un **Máster en Inteligencia Artificial**. Me apasiona conectar el desarrollo de software tradicional y robusto (Backend) con el potencial de los modelos de IA y el análisis de datos.
 
-Here are some ideas to get you started:
+### Sobre mí
+- 🎓 Actualmente cursando el último año de DAM y especializándome con un Máster en IA.
+- 💻 Enfocada en el ecosistema de **Java**, la arquitectura de software limpia y bases de datos relacionales.
+- 🤖 Interesada en Machine Learning, Deep Learning y cómo integrar IA en aplicaciones de escritorio y web.
+- 📍 Teruel, España.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías y Herramientas
+- **Lenguajes:** Java, Python, SQL
+- **Entornos y Herramientas:** IntelliJ IDEA, Maven, Git, GitHub
+- **IA & Datos (En proceso de aprendizaje):** Conceptos de Machine Learning, análisis de datos, automatización.
+
+### 📁 Proyectos destacados
+- **[hotel-management-java](https://github.com/adina-popa/hotel-management-java):** Sistema completo de gestión hotelera en Java (Swing, MySQL, Maven) aplicando arquitectura MVC y patrones DAO.
