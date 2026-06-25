@@ -10,8 +10,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualm
 
 ### Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-- **Entornos y Herramientas:** IntelliJ IDEA, Maven, Git, GitHub
 - **IA, Datos & Automatización:** Fundamentos de Machine Learning, Algoritmia avanzada, Programación Orientada a Objetos (POO) y manejo de entornos virtuales en Python.
 
 ### 📁 Proyectos destacados
