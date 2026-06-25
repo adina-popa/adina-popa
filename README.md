@@ -14,4 +14,5 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualm
 - **IA & Datos (En proceso de aprendizaje):** Conceptos de Machine Learning, análisis de datos, automatización.
 
 ### 📁 Proyectos destacados
-- **[hotel-management-java](https://github.com/adina-popa/hotel-management-java):** Sistema completo de gestión hotelera en Java (Swing, MySQL, Maven) aplicando arquitectura MVC y patrones DAO.
+- [hotel-management-java](https://github.com/adina-popa/hotel-management-java): Sistema completo de gestión hotelera en Java (Swing, MySQL, Maven) aplicando arquitectura MVC y patrones DAO.
+- [proyecto-final-python](https://github.com/adina-popa/proyecto-final-python): Desarrollo de módulos prácticos y algoritmos aplicados en Python (estructuras lógicas, POO, gestión de colecciones y análisis) orientados a asentar los fundamentos del Máster en IA.
