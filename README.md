@@ -9,9 +9,10 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualm
 - 📍 Teruel, España.
 
 ### Tecnologías y Herramientas
-- **Lenguajes:** Java, Python, SQL
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
 - **Entornos y Herramientas:** IntelliJ IDEA, Maven, Git, GitHub
-- **IA & Datos (En proceso de aprendizaje):** Conceptos de Machine Learning, análisis de datos, automatización.
+- **IA, Datos & Automatización:** Fundamentos de Machine Learning, Algoritmia avanzada, Programación Orientada a Objetos (POO) y manejo de entornos virtuales en Python.
 
 ### 📁 Proyectos destacados
 - [hotel-management-java](https://github.com/adina-popa/hotel-management-java): Sistema completo de gestión hotelera en Java (Swing, MySQL, Maven) aplicando arquitectura MVC y patrones DAO.
